@@ -12,6 +12,7 @@
 #### Languages
 
 ![PHP](https://img.shields.io/badge/-Php-green?&logo=PHP&logoColor=007396)
+![Go](https://img.shields.io/badge/-Golang-yellow?&logo=Go&logoColor=00ADD8)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-green?&logo=JavaScript&logoColor=ddc508)
 ![SQL](https://img.shields.io/badge/-SQL-green?&logo=MySQL&logoColor=4479A1)
